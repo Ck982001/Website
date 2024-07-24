@@ -1,0 +1,12 @@
+.nav{
+    display: flex;
+    align-content: space-around;
+    width: 2000px;
+}
+.nav1{
+    height:70px;
+    width:1300px;
+    display: flex;
+    align-items: center;
+    align-content: flex-end;
+}
