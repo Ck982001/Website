@@ -1,0 +1,7 @@
+body{
+    background-color: peachpuff;
+}
+.align{
+    display:flex;
+    align-content: space-evenly;
+}
